@@ -1,23 +1,23 @@
-#YourFinance
+# YourFinance
 
 Video Demo: https://youtu.be/iGg8wL-c5js
 
-##Description:
+## Description:
 > Hello World! I am Aditya Kadam.
 
 > This was my final project for CS50x.
 
 > I have built this project using technologies like HTML, CSS Javascript, MySql and PHP.
 
-##Reason for choosing this idea for the final project:
+## Reason for choosing this idea for the final project:
 YourFinance is a simple web app with a single use-case and that is to track your finances which includes your day-to-day transactions (both income and expenses). This idea is a solution to a problem which I have faced in my day-to-day life where keeping track of my transactions is difficult for me. In this digital age of fast transactions, I often lose track of the amount of money I am spending lol. If anything I have learned from CS50 then it is that we can use our knowledge and skills to solve real-world problems. Technology is simply a beautiful tool with which we can build something useful.
 
-##Features:
+## Features:
 1. Login and Registration Page.
 
 2. Track your Finance Page. (where you can track your transactions)
 
-##Walkthrough of my project:
+## Walkthrough of my project:
 To get a visual walkthrough you can the YouTube video (the link is above).
 YourFinance is basically a web app to track your finances.
 
@@ -49,7 +49,7 @@ YourFinance is basically a web app to track your finances.
 
 13. Whenever a user wants to see his previous transactions or if ever needs to add another transaction user can log in using the name username and password that he used for registration.
 
-##Project Structure :
+## Project Structure :
 1. Registration Page:
     a) The user can register himself to the web app via this page and the data will be recorded in the database.
 
@@ -102,7 +102,7 @@ YourFinance is basically a web app to track your finances.
 
     e) every time a different user does the registration the entry is recorded in the table.
 
-##Usecases of different files:
+## Use cases of different files:
 1. login.php is a file where I have designed the login and registration page
 
 2. Styling of the login.php file is done in style1.css.
@@ -121,5 +121,5 @@ YourFinance is basically a web app to track your finances.
 
 6. This was all. It was fun building this and I learned a lot.
 
-##Final Note:
+## Final Note:
 Doing CS50x was one of the best decisions of 2022. It taught me a lot more than just programming languages. I am thankful to all the staff and especially to David Malan. He is probably the most enthusiastic and dedicated teacher I have ever seen in my life. It was a great experience and fun to learn and grow.
