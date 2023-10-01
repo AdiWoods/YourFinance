@@ -5,7 +5,7 @@ Video Demo: https://youtu.be/iGg8wL-c5js
 ## Description:
 > Hello World! I am Aditya Kadam.
 
-> This was my final project for CS50x.
+> This is my final project for CS50x.
 
 > I have built this project using technologies like HTML, CSS Javascript, MySql and PHP.
 
